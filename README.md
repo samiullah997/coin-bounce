@@ -63,11 +63,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Coin Bounce <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Coin-Bounce is a captivating blog app developed with the MERN stack. Discover, write, and engage with fellow bloggers through its user-friendly interface. Experience seamless reading, writing, and community interaction in one platform.
 
-**[your_project__name]** is a...
+**Coin Bounce** is a captivating blog app developed with the MERN stack. Discover, write, and engage with fellow bloggers through its user-friendly interface. Experience seamless reading, writing, and community interaction in one platform.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -92,7 +92,7 @@ For more information on the importance of a professional README for your reposit
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.postgresql.org/">MongoDB</a></li>
   </ul>
 </details>
 
@@ -102,9 +102,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Show latest new articles**
+- **Show Cryptocurrency details**
+- **Submit New Blog**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,17 +208,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤**Author Samiullah**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@samiullah997](https://github.com/samiullah997)
+- Twitter: [@samiullahk997](https://twitter.com/samiullahk997)
+- LinkedIn: [Samiullah Khan](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,11 +275,5 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
